@@ -25,4 +25,4 @@ cssimport -h
 If you face any issues then open an issue using github issue tracker. If contributers want to contribute in code then fork this repository, make your changes and then make a pull request.
 
 ## Release History
-* 2014-11-29   v0.1.0   Initial release
+* 2014-11-29   v0.1.1   Initial release

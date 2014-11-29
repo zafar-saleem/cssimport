@@ -1,7 +1,7 @@
 {
   "name": "cssimport",
-  "description": "The best project ever.",
-  "version": "0.1.0",
+  "description": "Automates importing of css files in single file.",
+  "version": "0.1.1",
   "homepage": "https://github.com/zafar-saleem/cssimport",
   "author": {
     "name": "Zafar Saleem",
