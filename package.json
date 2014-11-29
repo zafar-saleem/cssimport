@@ -1,0 +1,39 @@
+{
+  "name": "cssimport",
+  "description": "The best project ever.",
+  "version": "0.1.0",
+  "homepage": "https://github.com/zafar-saleem/test",
+  "author": {
+    "name": "Zafar Saleem",
+    "email": "zafarsaleem3@gmail.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/zafar-saleem/test.git"
+  },
+  "bugs": {
+    "url": "https://github.com/zafar-saleem/test/issues"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://github.com/zafar-saleem/test/blob/master/LICENSE-MIT"
+    }
+  ],
+  "main": "lib/cssimport",
+  "engines": {
+    "node": "0.10.32"
+  },
+  "devDependencies": {
+    "hound": "1.0.4",
+    "async": "0.9.0",
+    "replace": "0.3.0",
+    "grunt": "~0.4.5",
+    "node-dir": "0.1.6"
+  },
+  "keywords": [],
+  "preferGlobal": "true",
+  "bin": {
+    "cssimport" : "lib/cssimport.js"
+  }
+}
