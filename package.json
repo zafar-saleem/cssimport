@@ -1,7 +1,7 @@
 {
   "name": "cssimport",
   "description": "Automates importing of css files in single file.",
-  "version": "0.1.1",
+  "version": "0.1.21",
   "homepage": "https://github.com/zafar-saleem/cssimport",
   "author": {
     "name": "Zafar Saleem",
@@ -24,14 +24,14 @@
   "engines": {
     "node": "0.10.32"
   },
-  "devDependencies": {
+  "dependencies": {
     "hound": "1.0.4",
     "async": "0.9.0",
     "replace": "0.3.0",
     "grunt": "~0.4.5",
     "node-dir": "0.1.6"
   },
-  "keywords": [],
+  "keywords": ["css","fs","import","watch"],
   "preferGlobal": "true",
   "bin": {
     "cssimport" : "lib/cssimport.js"
