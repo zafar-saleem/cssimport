@@ -1,7 +1,7 @@
 {
   "name": "cssimport",
   "description": "Automates importing of css files in single file.",
-  "version": "0.1.21",
+  "version": "0.1.22",
   "homepage": "https://github.com/zafar-saleem/cssimport",
   "author": {
     "name": "Zafar Saleem",
