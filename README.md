@@ -31,7 +31,7 @@ whereas `styles` is a folder in current directory. To view help simply use
 cssimport -h
 ```
 
-##Comming soon features
+##Coming soon features
 * I am currently working on `precedence` argument where developer could enter css file names that needs to be imported before the reset.
 * `watch` argument will also be introduced in near future so that developers would have option to import only once or keep watching the styles folder.
 
